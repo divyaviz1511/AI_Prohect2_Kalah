@@ -1,0 +1,4 @@
+Node,Depth,Value
+root,0,-Infinity
+A2,1,0
+root,0,0
